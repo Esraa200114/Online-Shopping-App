@@ -1,3 +1,5 @@
+https://user-images.githubusercontent.com/83236742/216444872-04c4bae3-1294-4e8a-8798-5f286c09f52e.mp4
+
 ### Covered Functionalities for  User
 - Sign up & login facilities.
 - Facility to navigate categories and products.
