@@ -1,11 +1,12 @@
+# E-commerce Mobile Application
 
-### Output Part 1
+## Output Part 1
 https://user-images.githubusercontent.com/83236742/216444872-04c4bae3-1294-4e8a-8798-5f286c09f52e.mp4
 
-### Output Part 2
+## Output Part 2
 https://user-images.githubusercontent.com/83236742/216446146-e1dbd9c4-fbb2-4c38-bcea-0423873e8272.mp4
 
-### Covered Functionalities for  User
+## Covered Functionalities for User
 - Sign up & login facilities.
 - Facility to navigate categories and products.
 - Facility to Search by text, voice and barcode (using Camera).
@@ -15,7 +16,7 @@ https://user-images.githubusercontent.com/83236742/216446146-e1dbd9c4-fbb2-4c38-
 - Facility to determine location of delivery by GPS.
 - Define the customer's birthdate using a calendar.
 - Remember me & forget password recovery facilities.
-### Covered Functionalities for  Admin
+## Covered Functionalities for Admin
 - Add/delete/edit products and categories.
 - Each product to have quantity number in stock specified by admin.
 - A report to be produced that contains all details of transactions occurred by a user/all users on a specific date.
